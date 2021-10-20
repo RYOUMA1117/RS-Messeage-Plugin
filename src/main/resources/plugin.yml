@@ -1,0 +1,20 @@
+name: RS Messeage
+version: '${project.version}'
+main: com.ryouma.messeage.main
+
+commands:
+   rslink:
+     description: RSの各種リンクを表示する。
+     aliases:
+       - rw
+       - link
+       - web
+       - wiki
+
+api-version: 1.17
+prefix: mes
+authors: [ RYOUMA ]
+description: りょうまサーバー内で公式サイトのリンクなどテンプレートの文章をプレイヤーに表示するプラグイン
+website: https://ryouma.sytes.net/
+
+
