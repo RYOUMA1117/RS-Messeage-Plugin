@@ -13,7 +13,7 @@ public class backupdata implements CommandExecutor {
         sender.sendMessage("§fhttps://media-ryouma.sytes.net/rs/backups/worlds/");
         sender.sendMessage("§cこれを使用して問題が発生してもRSは責任を負いません。");
         sender.sendMessage("§aこのコンテンツはCC BY-SAで提供されます。");
-        sender.sendMessage("§fCC BY-SA:https://creativecommons.org/licenses/by-sa/4.0/deed.ja");
+        sender.sendMessage("§fhttps://creativecommons.org/licenses/by-sa/4.0/deed.ja");
 
         return true;
     }

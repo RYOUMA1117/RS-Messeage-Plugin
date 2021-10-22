@@ -2,6 +2,7 @@ package com.ryouma.messeage;
 
 import com.ryouma.messeage.commands.backupdata;
 import com.ryouma.messeage.commands.rslink;
+import org.bukkit.command.CommandExecutor;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public final class main extends JavaPlugin {
@@ -10,10 +11,9 @@ public final class main extends JavaPlugin {
     @Override
     public void onEnable() {
         // Plugin startup logic
-        super .onEnable();
         getLogger().info("プラグインを有効にしました。");
         getCommand("rslink").setExecutor(new rslink());
-        getCommand("backup").setExecutor(new backupdata());
+        getCommand("backupdata").setExecutor(new backupdata());
     }
 
     @Override

@@ -9,7 +9,7 @@
     <version>1.0.3</version>
     <packaging>jar</packaging>
 
-    <name>RS Messeage</name>
+    <name>RS-Messeage-Plugin</name>
 
     <description>りょうまサーバー内で公式サイトのリンクなどテンプレートの文章をプレイヤーに表示するプラグイン</description>
     <properties>
