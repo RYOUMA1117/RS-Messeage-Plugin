@@ -1,5 +1,5 @@
 name: RS Messeage
-version: '1.0.2'
+version: '1.0.3'
 main: com.ryouma.messeage.main
 
 commands:
@@ -10,11 +10,17 @@ commands:
        - link
        - web
        - wiki
+   backupdata:
+     description: RSのバックアップデータがダウンロードできるURLを表示する。
+     aliases:
+       - bkdate
+       - backupdate
+       - bd
 
 api-version: 1.17
 prefix: mes
-authors: [ RYOUMA ]
-description: りょうまサーバー内で公式サイトのリンクなどテンプレートの文章をプレイヤーに表示するプラグイン
+authors: [ りょうま ]
+description: りょうまサーバー内で公式サイトのリンクなどテンプレートの文章をプレイヤーに表示するプラグイン。
 website: https://ryouma.sytes.net/
 
 
