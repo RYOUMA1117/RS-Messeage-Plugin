@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.ryouma.messeage</groupId>
-    <artifactId>RS_Messeage_Plugin</artifactId>
+    <artifactId>RS-Messeage-Plugin</artifactId>
     <version>1.0.3</version>
     <packaging>jar</packaging>
 
