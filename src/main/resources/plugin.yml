@@ -1,5 +1,5 @@
 name: RS Messeage
-version: '${project.version}'
+version: '1.0.1'
 main: com.ryouma.messeage.main
 
 commands:

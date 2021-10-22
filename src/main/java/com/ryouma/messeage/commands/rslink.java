@@ -14,7 +14,10 @@ public class rslink implements CommandExecutor {
         sender.sendMessage("§fhttps://ryouma.sytes.net/");
         sender.sendMessage("§aRSWiki (誰でも編集できる公式Wiki)");
         sender.sendMessage("§fhttps://wiki-ryouma.sytes.net/");
-
+        sender.sendMessage("§aRS Web Map (Google Map風)");
+        sender.sendMessage("§fhttps://map-ryouma.sytes.net/");
+        sender.sendMessage("§aRSソース (CDN)");
+        sender.sendMessage("§fhttps://media-ryouma.sytes.net/");
         return true;
     }
 }
