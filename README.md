@@ -13,3 +13,5 @@ Bukkit/Spigotサーバーの「plugins」フォルダーに.jarファイルを�
      /web
      /wiki
 でメッセージ送信します。
+
+※このリポジトリは、[RS-Dev](https://dev-ryouma.sytes.net/RYOUMA-SERVER/RS-Messeage)に移動されました。
